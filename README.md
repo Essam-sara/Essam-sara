@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm sara essam</h1>
-<h3 align="center">I'm a **Full-Stack Developer** with a passion for building dynamic and responsive web applications. I specialize in both **front-end** and **back-end** technologies, and I enjoy collaborating with others to create seamless user experiences.</h3>
+<h3 align="center">I'm a Full-Stack Developer with a passion for building dynamic and responsive web applications. I specialize in both front-end and back-end technologies, and I enjoy collaborating with others to create seamless user experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=essam-sara&label=Profile%20views&color=0e75b6&style=flat" alt="essam-sara" /> </p>
 
