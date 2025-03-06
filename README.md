@@ -64,7 +64,7 @@ I’m currently working on **graduation project at ITI**. <br>
 ## 💬 Let’s Connect
 
 You can reach out to me via:
-- 📧 Email: [your.email@example.com](mailto:saraessam2580@gmail.com)
+- 📧 Email: [saraessam2580@gmail.com](mailto:saraessam2580@gmail.com)
 - 🔗 LinkedIn: [Sara Essam LinkedIn](https://www.linkedin.com/in/sara-essam-youssef/)
 - 🌍 Portfolio: [Sara's Portfolio](https://yourportfolio.com)
 
