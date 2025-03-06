@@ -83,23 +83,3 @@ I love tackling complex problems and always enjoy learning new technologies to i
 
 ---
 
-## 🖥️ Projects
-
-### 1. **[Matching Game](#)** 
-   - Built using **HTML**, **CSS**, and **JavaScript** for the frontend and **Node.js** for the backend.
-
-### 2. **[Egyptian Bites](#)**
-   - Full-stack website developed with **Laravel** and **Angular**, for a restaurant with dynamic menu options.
-
-### 3. **[Product Store](#)** 
-   - E-commerce application using **Laravel** for the backend and **Bootstrap** for the front-end design.
-
-
-## 📊 GitHub Activity
-
-![Sara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Essam-sara&show_icons=true&hide_title=true&count_private=true)
-
----
-
-Feel free to reach out if you need assistance or want to collaborate on a project!
-
